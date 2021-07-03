@@ -1,0 +1,23 @@
+{
+  "name": "afsp",
+  "version": "1.0.0",
+  "description": "An Auto Accept Pending Friend Request, Then Send Discord Server Invite",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatoSakii/AFSP.git"
+  },
+  "author": "Sato.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SatoSakii/AFSP/issues"
+  },
+  "homepage": "https://github.com/SatoSakii/AFSP#readme"
+}
